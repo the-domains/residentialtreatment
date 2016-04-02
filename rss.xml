@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ResidentialTreatment]]></title>
+        <description><![CDATA[ResidentialTreatment]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Apr 2016 19:41:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Conduct Disorder?]]></title>
+            <description><![CDATA[<article><h1>What is Conduct Disorder?</h1><p></p></article>]]></description>
+            <link>undefinedwhat-is-conduct-disorder/index.html</link>
+            <guid isPermaLink="false">40bd7ebe-a004-4b82-8a8f-1cb3007927da</guid>
+            <pubDate>Sat, 02 Apr 2016 19:41:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
